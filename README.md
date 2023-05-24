@@ -3,9 +3,11 @@
 
 
 JSON Data Reading and Web Crawling
+
 This project demonstrates how to read data from a JSON file and perform web crawling using the extracted data.
 
 Prerequisites
+
 Before running the code, ensure that you have the following dependencies installed:
 
 Python (version 3.6 or higher)
