@@ -27,7 +27,7 @@ Copy code
 python web_crawler.py
 The script will read the data from the data.json file, perform web crawling on the specified URLs, and print the titles of the webpages to the console.
 
-Note: Make sure to replace web_crawler.py with the actual filename if you renamed the file.
+
 
 Customize the code: Inside the web_crawl function in web_crawler.py, you can modify the code to extract and process the desired information from the HTML content as per your requirements. Feel free to extend or modify the functionality to suit your needs.
 
